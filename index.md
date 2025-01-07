@@ -1,1 +1,3 @@
-## Welcome to my blog
+---
+ title: My observation of this and that.
+ ---
